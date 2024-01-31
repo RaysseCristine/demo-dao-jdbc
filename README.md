@@ -15,8 +15,9 @@ O projeto consiste no cadastro de vendedores e seus respectivos Departamentos ut
 
 ## Execução
 - Pré-requisito mínimo: Java 8
+  
 :file_folder: src/application/Program ou src/application/Program2
 
 
-#Autora
+# Autora
 - [@RaysseCristine](https://github.com/RaysseCristine)
