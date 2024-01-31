@@ -19,5 +19,5 @@ O projeto consiste no cadastro de vendedores e seus respectivos Departamentos ut
 :file_folder: src/application/Program ou src/application/Program2
 
 
-# Autora
+## Autora
 - [@RaysseCristine](https://github.com/RaysseCristine)
